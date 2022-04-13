@@ -1,15 +1,6 @@
-# 🚀 Welcome to your new awesome project!
-
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+# Social Chat
+A chat app that allows users to see each other relative in global perspective.
+## Scripts
+- "start" - use this to run the server.
+- "dev-build" - builds and transpiles static files.
+- "dev-tsc-check" - runs typescript compiler for type checking. Will not emit JS. Use "dev-build" command instead.
